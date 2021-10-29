@@ -1,0 +1,122 @@
+﻿@@media screen and (max-width: 768px) {
+    .header-div {
+        height: 800px;
+        background-color: #eef6ff !important;
+    }
+
+    .header-title {
+        margin-top: -76% !important;
+        font-size: 13px !important;
+    }
+
+    .ds {
+        padding-top: 196px !important;
+        overflow: hidden;
+    }
+
+    .pl200 {
+        padding-left: 00px !important;
+    }
+
+
+    .ab1 {
+        width: 318px !important;
+        float: right !important;
+        position: absolute !important;
+        padding-left: 1px !important;
+    }
+
+    .pbdiv {
+        width: 335px !important;
+        float: left !important;
+        padding-left: 1px !important;
+        padding-top: 10px !important;
+        margin-top: 589px !important;
+    }
+
+    .sanudiv6 {
+        padding-left: 10px !important;
+    }
+
+    .sanu {
+        padding-top: 7px !important;
+    }
+
+    #sp h2 {
+        color: #eee !important;
+        font-weight: 900 !important;
+        font-size: 5em !important;
+    }
+
+    #sp h3 {
+        color: #eee !important;
+        text-align: center !important;
+        font-size: 15px !important;
+    }
+
+    .mp {
+        text-align: center !important;
+        font-size: 4em !important;
+        font-weight: 600 !important;
+        color: #eee !important;
+        margin-bottom: -15% !important;
+    }
+
+    .a9 {
+        padding: 0rem 0 !important;
+    }
+
+
+    @*------------------------------------------------------------*@ .about1 {
+        font-family: 'Neuzeit Office Pro Regular';
+        color: #1d4956;
+        font-size: 16px
+    }
+
+    .about2 {
+        font-family: 'Neuzeit Office Pro Regular';
+    }
+
+    .director-about {
+        color: #1d4956;
+        font-size: 15px;
+        font-family: 'Lato', sans-serif;
+        text-align: justify;
+        padding-top: 5px
+    }
+
+    .header-div {
+        height: 100px;
+        background-color: #eef6ff;
+    }
+
+    .header-title {
+        margin-top: -45%;
+        padding-top: 100px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: center;
+        font-size: 36px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+    }
+
+    .ds {
+        padding-top: 800px;
+        overflow: hidden
+    }
+
+    .pl200 {
+        padding-left: 200px
+    }
+
+    .ab1 {
+        width: 535px;
+        float: right;
+        position: absolute;
+        padding-left: 640px;
+    }
+
+    .a9 {
+        padding: 5rem 0;
+    }
